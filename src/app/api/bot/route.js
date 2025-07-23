@@ -36,7 +36,7 @@ It's the protocol to model what hasn't happened — yet.
 Simulate it. Prove it. Deploy with confidence.
   `;
 
-  const pngUrl = 'https://orvnbot.vercel.app/orvnpic.png';  // public 폴더에 있는 이미지 파일 경로
+  const pngUrl = 'https://orvnbot.vercel.app/ovrnpic.png';  // public 폴더에 있는 이미지 파일 경로
 
   // ✅ GIF + 메시지 + 버튼을 한 번에 보냄
   await ctx.replyWithPhoto(pngUrl, {
