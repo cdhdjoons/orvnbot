@@ -14,7 +14,7 @@ bot.command("start", async (ctx) => {
       [{ text: "🔘 Start Simulating", web_app: { url: "https://www.orvyn.world" } }],  // 게임 링크 수정
       [{ text: "📖 Docs", url: "https://orvyn.gitbook.io/orvyn-docs" }],
       [{ text: "💬 Telegram", url: "https://t.me/orvynai" }],
-      [{ text: "🧵 Twitter (X)", url: "https://x.com/orvynai" }],
+      [{ text: "🧵 Twitter (X)", url: "https://x.com/orvynaiX" }],
       [{ text: "🌐 Website", url: "https://www.orvyn.world" }],
     ],
   };
